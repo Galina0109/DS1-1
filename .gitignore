@@ -29,6 +29,6 @@ bin/
 .DS_Store
 
 ### Rabota ###
+.iml-файл
 .idea
 out
-.iml-файл
